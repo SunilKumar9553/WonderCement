@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Web">
+		<groups>
+			<run>
+				<include name="regression" />
+			</run>
+		</groups>
+		<classes>
+<!-- 			<class name="WebTestCases.TC_001_fileupload"></class> -->
+<!-- 			<class name="WebTestCases.TC_005_Reports"></class> -->
+<!-- 			<class name="WebTestCases.TC_006_ZurichFloodQuote"></class> -->
+<!-- 			<class name="WebTestCases.TC_008_PolicyMaintenance"></class> -->
+<!-- 			<class name="WebTestCases.TC_009_SharingWords"></class> -->
+<!-- 			<class name="WebTestCases.TC_010_RollOverReports"></class> -->
+<!-- 			<class name="WebTestCases.TC_011_IDocs"></class> -->
+<!-- 			<class name="WebTestCases.TC_012_ReprintQuoteOrApp"></class> -->
+<!-- 			<class name="WebTestCases.TC_013_PolicySearch"></class> -->
+<!-- 			<class name="WebTestCases.TC_014_QuoteSearch"></class> -->
+<!-- 			<class name="WebTestCases.TC_015_PendingInsurance"></class> -->
+<!-- 			<class name="WebTestCases.TC_016_NonRenewals"></class> -->
+<!-- 			<class name="WebTestCases.TC_017_ExpiringPolicies"></class> -->
+
+<!-- 			<class name="WebTestCases.TC_025_InsuredWebSiteGuestSignIn"></class> -->
+<!-- 			<class name="WebTestCases.TC_026_ClaimInformationPage"></class> -->
+<!-- 			<class name="WebTestCases.TC_027_ClaimInfrmtnPagefromSearchBox"></class> -->
+<!-- 			<class name="WebTestCases.TC_028_PaymentFromPolicyMntnce"></class> -->
+<!-- 			<class name="WebTestCases.TC_029_TokenNumber"></class> -->
+<!-- 			<class name="WebTestCases.TC_030_OpenQuoteandAppPDFs"></class> -->
+<!-- 			<class name="WebTestCases.TC_031_NonSkinnedSsoTest"></class> -->
+<!-- 			<class name="WebTestCases.TC_032_MPPP"></class> -->
+<!-- 			<class name="WebTestCases.TC_042_ZoneDetermination"></class> -->
+<!-- 			<class name="WebTestCases.TC_033_ExcessFloodQuote"></class> -->
+<!-- 			<class name="WebTestCases.TC_034_AgentMaintenance"></class> -->
+<!-- 			<class -->
+<!-- 				name="WebTestCases.TC_035_ReprintQuoteOrAppWithAppNumber"></class> -->
+<!-- 			<class name="WebTestCases.TC_036_HiscoxQuote"></class> -->
+<!-- 			<class name="WebTestCases.TC_037_InclineFloodQuote"></class> -->
+
+<!-- 			<class name="WebTestCases.TC_024_SearchPolicyFromSearchBox"></class> -->
+<!-- 			<class name="WebTestCases.TC_038_SFRQuote"></class> -->
+<!-- 			<class name="WebTestCases.TC_040_PolicyOverViewOpenClaim"></class> -->
+<!-- 			<class name="WebTestCases.TC_041_PRPQuote"></class> -->
+<!-- 			<class name="WebTestCases.TC_043_Hiscox_scenario_2"></class> -->
+<!-- 			<class name="WebTestCases.TC_044_ZurichQuote_scenario_2"></class> -->
+<!-- 			<class name="WebTestCases.TC_045_Inclined_scenario_2"></class> -->
+<!-- 			<class name="WebTestCases.TC_046_FloodQuote_scenario_2"></class> -->
+<!-- 			<class name="WebTestCases.TC_047_FloodQuote_scenario_3"></class> -->
+<!-- 			<class name="WebTestCases.TC_048_FloodQuote_scenario_4"></class> -->
+<!-- 			<class name="WebTestCases.TC_049_Inclined_scenario_3"></class> -->
+<!-- 			<class name="WebTestCases.TC_050_FloodQuote_scenario5"></class> -->
+
+                <class name="WcTestCases.PrToPoCreation.java"></class>
+
+
+
+
+		</classes>
+	</test>
+</suite> <!-- Suite -->
