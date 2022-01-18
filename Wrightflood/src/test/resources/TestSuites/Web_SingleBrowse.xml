@@ -49,9 +49,9 @@
 <!-- 			<class name="WebTestCases.TC_047_FloodQuote_scenario_3"></class> -->
 <!-- 			<class name="WebTestCases.TC_048_FloodQuote_scenario_4"></class> -->
 <!-- 			<class name="WebTestCases.TC_049_Inclined_scenario_3"></class> -->
-<!-- 			<class name="WebTestCases.TC_050_FloodQuote_scenario5"></class> -->
+		       <class name="WebTestCases.TC_050_FloodQuote_scenario5"></class>
 
-                <class name="WcTestCases.PrToPoCreation.java"></class>
+                
 
 
 
